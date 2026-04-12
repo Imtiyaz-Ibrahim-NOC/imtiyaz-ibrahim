@@ -20,14 +20,14 @@
 
 <!-- Social Links -->
 <p>
-  <a href="www.linkedin.com/in/imtiyaz-ibrahim-noc-engineer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
+ <a href="https://linkedin.com/in/imtiyaz-ibrahim-noc-engineer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
   <a href="mailto:erimtiyazibrahim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
   <a href="https://github.com/imtiyaz-ibrahim-noc-engineer">
     <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
