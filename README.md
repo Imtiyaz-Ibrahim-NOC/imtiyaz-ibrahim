@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Animated Header Banner ->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Imtiyaz%20Ibrahim%20Mir&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=NOC%20Engineer%20%40%20Arche%20Global%20%7C%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker&descSize=17&descColor=a0a0c0&descAlignY=60&animation=fadeIn"/>
 
 
