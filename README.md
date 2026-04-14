@@ -20,7 +20,7 @@
 
 <!-- Social Links -->
 <p>
- <a href="https://linkedin.com/in/imtiyaz-ibrahim-noc-engineer">
+ <a href="https://linkedin.com/in/imtiyaz-ibrahim">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-  <a href="https://github.com/imtiyaz-ibrahim-noc-engineer">
+  <a href="https://github.com/imtiyaz-ibrahim-noc">
     <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
