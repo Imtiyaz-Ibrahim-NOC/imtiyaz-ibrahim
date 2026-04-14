@@ -46,11 +46,11 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║              IMTIYAZ IBRAHIM MIR — PROFILE SUMMARY              ║
   ╠══════════════════════════════════════════════════════════════════╣
-  ║  Name       :  Imtiyaz Ibrahim Mir                              ║
+  ║  Name       :  Imtiyaz Ibrahim                              ║
   ║  Current    :  NOC Engineer @ Arche Global, Bangalore           ║
   ║  Education  :  B.Tech — Computer Science & Engineering          ║
-  ║               University of Kashmir, 2024                       ║
-  ║  Certs      :  CISSP | CySA+ | Security+ | Linux+              ║
+  ║               University of Kashmir, 2025                       ║
+  ║  Certs      :  CISSP | CySA+ | Security+ | Linux+ | CCNA              ║
   ║  Focus      :  Network Operations | SOC | Penetration Testing   ║
   ║  Strengths  :  Fast Learner | Team Player | Detail-Oriented     ║
   ║  Email      :  erimtiyazibrahim@gmail.com                       ║
